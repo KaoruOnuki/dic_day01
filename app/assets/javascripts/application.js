@@ -16,4 +16,5 @@
 //= require popper
 //= require bootstrap-sprockets
 //= require "scrollreveal"
+//= require "jquery.magnific-popup"
 //= require_tree .
